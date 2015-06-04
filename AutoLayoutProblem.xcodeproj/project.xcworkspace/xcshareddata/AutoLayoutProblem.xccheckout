@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DE13C96E-E456-434C-8F98-CC8E3F1CD0AF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AutoLayoutProblem</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CD9FE64D160F98EEA1006B7A2729B68B22F25BEE</key>
+		<string>https://github.com/ksoftllc/UITableView-with-UITextView-and-UILabel-Resize.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AutoLayoutProblem.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CD9FE64D160F98EEA1006B7A2729B68B22F25BEE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ksoftllc/UITableView-with-UITextView-and-UILabel-Resize.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CD9FE64D160F98EEA1006B7A2729B68B22F25BEE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CD9FE64D160F98EEA1006B7A2729B68B22F25BEE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UITableView-with-UITextView-and-UILabel-Resize</string>
+		</dict>
+	</array>
+</dict>
+</plist>
