@@ -16,4 +16,4 @@ In TableViewController you must set some value for estimated row height and then
 
 UITextView must have scrolling disabled!
 
-UILabel must have rows set to zero and some sort of appropriate wrapping option.
+UILabel must have lines set to zero and some sort of appropriate wrapping option.
