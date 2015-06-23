@@ -8,12 +8,13 @@ Bare minimum setup for having a UITableView containing UILabel and UITextView th
 Key items
 
 In TableViewController you must set some value for estimated row height and then set the rowHeight of the table view to automatically dimension:
+```
     - (void)viewDidLoad {
         [super viewDidLoad];
         self.tableView.estimatedRowHeight = self.tableView.rowHeight;
         self.tableView.rowHeight = UITableViewAutomaticDimension;
     }
-
+```
 UITextView must have scrolling disabled!
 
 UILabel must have lines set to zero and some sort of appropriate wrapping option.
